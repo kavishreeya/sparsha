@@ -432,10 +432,10 @@ function ImpactSection() {
 }
 
 const DEMO_PATTERNS = [
-  { name: "Tamil A", lang: "Tamil", color: ACCENT, pattern: [1, 0, 1, 1, 0], emoji: "🤲" },
-  { name: "Namaste", lang: "Hindi", color: "#00b8ff", pattern: [1, 1, 0, 1, 0], emoji: "🙏" },
-  { name: "Vinandi", lang: "Telugu", color: "#a78bfa", pattern: [0, 1, 1, 0, 1], emoji: "👐" },
-  { name: "Hello", lang: "Bengali", color: GOLD, pattern: [1, 0, 0, 1, 1], emoji: "✋" },
+  { name: "வணக்கம்", lang: "Tamil", color: ACCENT, pattern: [1, 0, 1, 1, 0], emoji: "🤲" },
+  { name: "नमस्ते", lang: "Hindi", color: "#00b8ff", pattern: [1, 1, 0, 1, 0], emoji: "🙏" },
+  { name: "హలో", lang: "Telugu", color: "#a78bfa", pattern: [0, 1, 1, 0, 1], emoji: "👐" },
+  { name: "হ্যালো", lang: "Bengali", color: GOLD, pattern: [1, 0, 0, 1, 1], emoji: "✋" },
 ];
 
 function LiveDemoSection() {
